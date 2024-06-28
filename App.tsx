@@ -52,9 +52,8 @@ function App(): React.JSX.Element {
     <ScrollView contentInsetAdjustmentBehavior="automatic">
       <Header />
       <View>
-        <Section title="Step One">
-          Edit <Text style={styles.highlight}>App.tsx</Text> to change this
-          screen and then come back to see your edits.
+        <Section title="Hello World! Welcome to VisionPro!!!">
+         First Edits of the app in VisionPro
         </Section>
         <Section title="See Your Changes">
           <ReloadInstructions />
